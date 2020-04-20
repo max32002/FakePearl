@@ -1,5 +1,11 @@
 「假粉圓體」是基於[jf open 粉圓](https://github.com/justfont/open-huninn-font)的開放原始碼中文字型。
 
+## 改版記錄
+### Ver 1.20　(2020/4/20) 修正版，以下為真的粉圓體 ver 1.1 改版內容
+* 1.新增字符，包含「本土語言外字表」表列的台客語漢字，共312字。
+* 2.更正某些字的輪廓與曲線錯誤。
+* 3.嘗試排除台/客語羅馬字標音可能出現錯誤位移的狀況。
+
 ## 字體特色
 
 
@@ -40,14 +46,32 @@
     * 可自由改作為其他字型 將字型檔案修改重製為其他字型檔案，改作後的字型檔案須同樣依 Open Font License 釋出。
     
     
-## 相關文章
+## 相關網頁
 
+* 獅尾四季春字體 Swei Spring
+https://max-everyday.com/2020/04/swei-spring/
+* 獅尾半月字體 Swei Gothic
+https://max-everyday.com/2020/04/swei-half-moon/
+* 獅尾圓體 Swei Gothic
+https://max-everyday.com/2020/04/swei-gothic/
+* 獅尾黑體 Swei Sans
+https://max-everyday.com/2020/03/swei-sans/
 * 內海字體 (NaikaiFont) 
 https://max-everyday.com/2020/03/naikaifont/
 * 莫大毛筆字體 (Bakudai)
 https://max-everyday.com/2020/03/bakudaifont/
 * 清松手寫體 (JasonHandWriting)
 https://jasonfonts.max-everyday.com/
+* 源泉圓體
+https://github.com/ButTaiwan/gensen-font
 * jf open 粉圓
 https://github.com/justfont/open-huninn-font
+* 假粉圓體
+https://github.com/max32002/FakePearl
+* 俊羽圓體
+https://github.com/max32002/YuPearl
 
+## 贊助Max
+
+很高興可以替中華民國美學盡一分心力，如果你覺得這篇文章寫的很好，想打賞Max，贊助方式如下：
+https://max-everyday.com/about/#donate
