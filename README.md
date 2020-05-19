@@ -6,6 +6,8 @@
 * 2.更正某些字的輪廓與曲線錯誤。
 * 3.嘗試排除台/客語羅馬字標音可能出現錯誤位移的狀況。
 
+附註： 由於是「非原作者」的補字，新加入的字在風格上，雖然盡力求一致，難免會與原作者會有一些不同。
+
 ## 字體特色
 
 
@@ -56,6 +58,8 @@ https://max-everyday.com/2020/03/swei-sans/
 https://max-everyday.com/2020/03/naikaifont/
 * 莫大毛筆字體 (Bakudai)
 https://max-everyday.com/2020/03/bakudaifont/
+* 正風毛筆字體 (MasaFont)
+https://max-everyday.com/2020/05/masafont/
 * 清松手寫體 (JasonHandWriting)
 https://jasonfonts.max-everyday.com/
 * 源泉圓體
